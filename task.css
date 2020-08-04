@@ -1,0 +1,49 @@
+*{
+	font-family: Montserrat
+}
+.back_change:hover{
+	background-color: black;
+	color: white;
+}
+#services_off{
+	margin-top: 30px; 
+}
+.service_column{
+	padding: 20px;
+	text-align: center;
+}
+.para_changes{
+	margin-top: 50px;
+}
+#gallery{
+	margin-top: 50px;
+}
+.img_alg{
+	text-align: center;
+	margin-bottom: 30px;
+}
+.gallery_hr{
+	border: 1px solid #ab9f9f;
+}
+button{
+	margin-top: 50px;
+}
+footer{
+	margin-top: 50px;
+	background-color: black;
+	color:#FFFFFF ;
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+ul{
+	list-style: none;
+}
+.footer_link{
+	color: #ffffff;
+}
+.footer_link:hover{
+	color: white; 
+}
+.spacing_change{
+	margin-top: 20px;
+}
